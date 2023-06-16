@@ -1,6 +1,8 @@
 # rest-api
 Simple rest api in python using Flask and sqlite3
 
+You can download docker image here https://github.com/users/LordT3ch/packages/container/package/rest-api !
+
 You will need to download someting like ,,Advanced rest client" for testing or use test.py file that will try each command for you
 
 Connect with localhost:5000 (port 5000 in default, can be changed in docker)
