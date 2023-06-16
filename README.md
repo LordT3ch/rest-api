@@ -5,7 +5,7 @@ In docker desktop app you need to change the image port to something like 5050 i
 
 You will need to download someting like ,,Advanced rest client" for testing or use test.py file that will try each command for you
 
-Connect with localhost:5000 (port 5000 in default, can be changed in docker)
+Connect with localhost:5000
 Then you can use:
 
 1. localhost:5000/movies          - (GET) Get all the movies in database.
